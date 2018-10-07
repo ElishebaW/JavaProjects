@@ -2,7 +2,7 @@
  This program finds common baby names in a certain year and the equivalent
  popular baby name in other years.
 
- This was creates as apart of the  Java Programming: Solving Problems with Software. course
+ This was creates as apart of the  Java Programming: Solving Problems with Software course
  on Coursera.
 
  */
